@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">ITSMEIKY BOT
 <p align="center">
-<img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
+<img src="https://camo.githubusercontent.com/0afcc6050ce6d1858e1f8136ad418fadea998a0188ae20364504ed6c9bbb6b2c/68747470733a2f2f696d61676573352e616c706861636f646572732e636f6d2f3931312f3931313631342e706e67" width="230" height="230"/>
 </p>
 <p align="center">
 <p align="center">
