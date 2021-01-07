@@ -18,5 +18,6 @@
 > cd ITSMEIKYB0T
 > bash install.sh
 ```
+```
 > npm start
 ```
