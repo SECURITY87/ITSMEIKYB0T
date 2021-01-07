@@ -14,10 +14,9 @@
 ```Termux Command 
 > git clone https://github.com/itsmeikybot/ITSMEIKYB0T
 ```
-
 ```Next Command
 > cd ITSMEIKYB0T
 > bash install.sh
+```
 > npm start
-``
 ```
