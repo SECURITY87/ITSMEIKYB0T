@@ -9,7 +9,7 @@
 <p align="center">
 
 
-## Clone this project
+♡WhatsApp BOT On Termux♡
 
 ```Termux Command 
 > git clone https://github.com/itsmeikybot/ITSMEIKYB0T
